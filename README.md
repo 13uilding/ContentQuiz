@@ -7,7 +7,12 @@ I don't want to write all of the questions, so I would like to create a way to h
 1. Questions
   a. Should be 1 minute per question
   b. Flavors: Multiple choice / matching / true or false / short answer
+    i. Added Multiple Choice Class
+    ii. Added True False Class
+    iii. TO DO: matching
+    iv. TO DO: short answer
   c. Should have a correct answer
+    i. LATER: I'm not positive how I want to implement correct answers with an array
 2. Tests
   a. Comprised of questions
   b. Landing page
