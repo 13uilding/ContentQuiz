@@ -1,0 +1,23 @@
+{
+  "name": "partscontentquiz",
+  "version": "1.0.0",
+  "description": "I want to create a quiz with questions that cover all of the material from the previous week to help prepare users for the quiz on Monday.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd react-content-quiz & npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13uilding/ContentQuiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13uilding/ContentQuiz/issues"
+  },
+  "homepage": "https://github.com/13uilding/ContentQuiz#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.9.13"
+  }
+}
